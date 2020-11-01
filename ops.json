@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "f78a4d8d-d51b-4b39-98a3-230f2de0c670",
+    "name": "CONSOLE",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ecd0c4ab-4957-4e60-b32e-60b4c6f5e18b",
+    "name": "EveningPerson",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
