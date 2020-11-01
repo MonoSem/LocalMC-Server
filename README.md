@@ -1,2 +1,5 @@
 # LocalMC-Server
-A Localhost Minecraft server
+
+## Run
+
+- Just launch the Start.bat
